@@ -44,7 +44,7 @@ The dashboard provides a comprehensive understanding of sales performance, produ
 
 ## 📈 Page 1 — Sales Overview
 
-![Sales Overview Dashboard](./ASSETS/SALES_OVERVIEW.png)
+![Sales Overview Dashboard](./ASSETS/SALES_OVERVIEW.jpg)
 
 The Sales Overview dashboard provides a high-level view of business performance through interactive KPIs, trend analysis, and sales visualizations.
 
@@ -80,7 +80,7 @@ The Sales Overview dashboard provides a high-level view of business performance 
 
 ## 📦 Page 2 — Product Analysis
 
-![Product Analysis Dashboard](./ASSETS/PRODUCT%20ANALYSIS.png)
+![Product Analysis Dashboard](./ASSETS/PRODUCT%20ANALYSIS.jpg)
 
 The Product Analysis dashboard focuses on product performance, inventory distribution, brand revenue, geographic revenue contribution, and order status.
 
